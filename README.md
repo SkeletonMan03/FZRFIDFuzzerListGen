@@ -9,3 +9,6 @@ Simple RFID Fuzzer List Generator for Flipper Zero
 ## Why?
 I keep seeing skids on Discord asking for fuzzer lists not understanding the point of it at all.  
 It does actually have use in a Red Team Engagement.  
+
+# Disclaimer
+I am *absolutely* not responsible if you get in trouble for tampering with a reader. (Yes, fuzzing is tampering).  
