@@ -3,7 +3,7 @@ Simple RFID Fuzzer List Generator for Flipper Zero
 
 ## How to use
 1) Simply run `python FuzzerListGen.py`.  
-2) You enter all but the last octet of a known RFID card then either pick a range of values to use or just all possible values for the last octet.  
+2) You enter all but the last octet of a known RFID card then either pick a range of hex values to use for the last octet or just let it do all possible hex values for the last octet.  
 3) Throw the generated list into your Flipper Zero's RFID Fuzzer Folder.  
 
 ## Why?
