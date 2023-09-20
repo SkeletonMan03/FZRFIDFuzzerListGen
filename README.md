@@ -23,7 +23,7 @@ Since it's only 26-bit, I'll use H10301 again as an example.
 As already stated, it's the preamble, then three 8-bit octets.  
 So it could be something like 24:45:2A for example.  
 24 being the Facility code which is 36 in decimal, and 45:2A being the card number, which in this case would be 17706 in decimal.  
-So, with this in mind, lets say the tag doesn't work, but you want to try some card numbers before it. Lets say, 20 of them, since it's hex, you'd put 15 as the last octet and have it end at 29.  
+So, with this in mind, lets say the tag doesn't work, but you want to try some card numbers before it. Lets say, 20 of them, since it's hex, you'd put 15 as the last octet and have it end at 29 so you'd be trying card numbers 17685 through 17705.  
 
 
 # Disclaimer
